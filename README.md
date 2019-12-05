@@ -12,4 +12,4 @@ The mapping of 64 bit hash code to 4 digit OTP is done in following way:
 2. Import as a java project in eclipse.
 3. Run the program.
 
-Any improvements would be highly appretiated ! 
+Any improvements would be highly appreciated ! 
